@@ -1,0 +1,3 @@
+              - name: generate-snake-game-from-github-contribution-grid-extended
+                uses: ArthurLobopro/snk@v0.4.0
+            
