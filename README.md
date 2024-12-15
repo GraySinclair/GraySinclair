@@ -6,10 +6,6 @@
 #### Spoken Languages: [English, Spanish, Korean] - Conversational in English/Spanish. Not conversational in Korean... YET!
 
 
-
-
-Currently learning about Fabric for a job opportunity!
-
 <!--
 ignore this
 -->
